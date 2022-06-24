@@ -8,4 +8,11 @@ int main()
 	{
 		cout << i;
 	}
+	
+	int c = 0;
+	while (c != 10)
+	{
+		cout << c;
+		c++;
+	}
 }
