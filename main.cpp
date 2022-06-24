@@ -9,8 +9,10 @@ int main()
 		cout << i;
 	}
 	
-	for (int c = 0; c < 10; c++)
+	int c = 0;
+	while (c != 10)
 	{
 		cout << c;
+		c++;
 	}
 }
