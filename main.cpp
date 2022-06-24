@@ -8,4 +8,8 @@ int main()
 	{
 		cout << i;
 	}
+	for (int c = 10; i < 20; i++)
+	{
+		cout << c;
+	}
 }
